@@ -1,3 +1,4 @@
+   print(lone_sum)
 def lone_sum(a, b, c):
     if a >= b:
         return c
@@ -9,4 +10,4 @@ def lone_sum(a, b, c):
         return 0
     else:
         return a+b+c
-   print(lone_sum)
+
