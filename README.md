@@ -1,6 +1,6 @@
 # Project Title
 ```
-Debugging Code Code changed !!!!!!!
+Debugging Code Code changed !
 ```
 ## Getting Started
 ```
