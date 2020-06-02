@@ -21,7 +21,7 @@ debug.py
 debug.py
 https://github.com/pakizehjam/debugging_code/blob/master/debug_1.py
 Persian TECH.docx
-Local: 
+Local address: C:\Users\moham\OneDrive\Documents\GitHub\debugging_code
 ```
 ### Thanks
 I thank everyone who helped me to complete this project.
