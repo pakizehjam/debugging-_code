@@ -19,7 +19,7 @@ debug.py
 ### Add any additional ways to run the program below
 ```
 debug.py
-
+https://github.com/pakizehjam/debugging_code/blob/master/debug_1.py
 Persian TECH.docx
 Local: 
 ```
